@@ -10,6 +10,7 @@ jobs:
       # Below everyone should position at the right index in the roster
       - run: echo '02 Attanasio - 🐧🐧🐧🐧🐧🐧'
       - run: echo '03 Baez - 🐧🐧🐧🐧🐧🐧'
+      - run: echo '04 Ben  - 🐧🐧🐧🐧🐧🐧'
       - run: echo '07 Buongallino - 🐧🐧🐧🐧🐧🐧'
       - run: echo '09 Carella - 🐧🐧🐧🐧🐧🐧'
       - run: echo '12 DeMartino - 🐧🐧🐧🐧🐧🐧'
